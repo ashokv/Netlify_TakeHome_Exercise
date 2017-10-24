@@ -25,6 +25,7 @@ tags:
 - Debug a customer's build using a programming language and framework that you've never seen before
 - Deliver a talk to many people you don't know at a conference or meetup
 
+
 #### What is your favorite thing about providing technical support?
 I adore providing tech support because I learn new things troubleshooting and resolving customer issues every day. More importantly, I have a chance to better understand human emotions and the happiness in their tone (when I fix problems they were having) is what motivates me to go to any extent to find solutions.
 
@@ -32,8 +33,10 @@ I disagree with people when they say about having no growth in technical support
 
 Moreover, when you troubleshoot technical issues, you will get to know that the world doesn’t run the way you want and you learn how to get things done and find solutions.
 
+
 #### What did you think of our service during the time you used it?  Be honest!  “it sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)
 I have hands-on experience updating knowledge bases using Cloud9 (an online code editor). During my time with Interakt, I used [C9](https://c9.io) to update knowledge bases where the lead developer would push updates to the production server, but it was not so practical to use on a regular basis. I think Netlify with its broader scope not only helps developers but solves every problem that distributed teams face in updating content on a daily basis.
+
 
 #### Tell about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it
 I’ve built the website by deploying PHPoole and created three pages without any issues.
@@ -42,10 +45,12 @@ I’ve built the website by deploying PHPoole and created three pages without an
 - PHPoole: This lightweight website generator worked well to add a checklist and answers to your questions via Github. 
 - Github: Helped me hosting all the data and all I had to do was add a few pages.
 
+
 #### Could you give us a suggestion to improve this test or the job posting?
 This job posting covered everything and I love the way you explained it. The linked articles were handy to learn more about the position. 
 
 I suggest you add a Google form or [Typeform](https://typeform.com) to answer your questions directly instead of writing an email. That helps you keep track of applications and candidates can efficiently fill in.
+
 
 #### Provide a link to documentation for a technical/developer-focused product, that you think are well done, and briefly explain why you think they are well done.
 I believe support documentation of **Wistia** and **Interakt.co** are terrific.
@@ -65,6 +70,7 @@ For example,
 ![WistiaImage](https://raw.githubusercontent.com/netlifytest/NetlifyTest/master/wistia_image.png "WisitaImage")
 
 **[Interakt.co’s](http://docs.interakt.co)** interactive documentation with table of contents (linking sub-topics and FAQs) codepen snippets and widgets competes with Wistia’s elegance. I wrote all their (Interakt.co) docs :)
+
 
 #### A customer writes in saying their “site won’t build”.  Compose your best short (2-paragraph) customer-facing answer without any additional data, that could be useful in the generic case but would also lead to a customer providing a more actionable response.
 
@@ -93,6 +99,7 @@ Ashok Kumar
 - I tried accessing their account on our end, and everything looks fine 
 (@Chris I’m not sure if support engineers are allowed access customer accounts, but I want to take a chance)
 - Suggested to follow necessary troubleshooting steps and will investigate into the issue after receiving error details and screenshots
+
 
 #### (optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?
 Done! Here is the link - https://ashokexercise.netlify.com/netlify/anything
