@@ -9,5 +9,5 @@ site:
   paginate:
     disabled: true
     homepage:
-      section: about
+      section: blog
 theme: hyde
