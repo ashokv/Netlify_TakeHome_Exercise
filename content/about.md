@@ -1,8 +1,16 @@
 ---
-title: About
-menu:
+title: About me :)
+menu: 
     main:
-        weight: 101
+        weight: 98
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<center>==========================================</center>
+
+<h3 style="color:#F24800; text-align:center">Ashok Kumar</h3>
+
+<h6 style="color:#444; text-align:center">FAN OF TECHNOLOGY AND ENTREPRENEURSHIP</h6>
+
+<p style="color:#444; text-align:center">I started my working life as a computer trainer, but enthusiasm for startups and dream of one day becoming an entrepreneur soon steered my career in a different direction.</p>
+
+<p style="color:#444; text-align:center">In my 11+ year of experience, it seems like I've seen it all. I've worked as a trainer, freelance web developer and customer success specialist for many, many startups. It's the startup world that intrigues me the most and keeps pulling me back time and again — even after three startups stuck in development limbo!</p>
