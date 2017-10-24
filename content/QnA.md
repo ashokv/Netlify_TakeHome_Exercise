@@ -47,5 +47,23 @@ This job posting covered everything and I love the way you explained it. The lin
 
 I suggest you add a Google form or [Typeform](https://typeform.com) to answer your questions directly instead of writing an email. That helps you keep track of applications and candidates can efficiently fill in.
 
+#### Provide a link to documentation for a technical/developer-focused product, that you think are well done, and briefly explain why you think they are well done.
+I believe support documentation of **Wistia** and **Interakt.co** are terrific.
+
+**[Wistia's](http://wistia.com/support/)** support documentation covers everything on a single page rather than separate articles for each solution. They made good use of scrollspy navigation.
+
+Also, each sub-topic in a page has a direct link which can be copied and shared by support staff over chat or email so visitors/users need not read the entire document.
+
+For example,
+
+- Embedding videos on your website
+    - Generate an Embed Code
+    - Inline Embeds
+    - Popover Embeds
+    - Troubleshooting Embed Issues
+
+![WistiaImage](https://raw.githubusercontent.com/netlifytest/NetlifyTest/master/wistia_image.png "WisitaImage")
+
+**[Interakt.co’s](http://docs.interakt.co)** interactive documentation with table of contents (linking sub-topics and FAQs) codepen snippets and widgets competes with Wistia’s elegance. I wrote all their (Interakt.co) docs :)
 
 
