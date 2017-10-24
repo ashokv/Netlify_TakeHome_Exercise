@@ -1,8 +1,8 @@
 site:
-  title: Cecil
-  baseline: Your blog's butler.
+  title: Netlify Exercise
+  baseline: Ashok Kumar V
   baseurl: /
-  description: Your blog's butler, powered by PHPoole.
+  description: Highly experienced and results-driven professional
   menu:
     main:
       blog:
@@ -10,5 +10,5 @@ site:
   paginate:
     disabled: true
     homepage:
-      section: blog
+      section: about
 theme: hyde
