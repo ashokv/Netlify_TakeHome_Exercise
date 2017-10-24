@@ -31,3 +31,21 @@ I adore providing tech support because I learn new things troubleshooting and re
 I disagree with people when they say about having no growth in technical support. My career helped me improve technical skills and ability to view things from a different perspective that employees in other positions cannot :)
 
 Moreover, when you troubleshoot technical issues, you will get to know that the world doesn’t run the way you want and you learn how to get things done and find solutions.
+
+#### What did you think of our service during the time you used it?  Be honest!  “it sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)
+I have hands-on experience updating knowledge bases using Cloud9 (an online code editor). During my time with Interakt, I used [C9](https://c9.io) to update knowledge bases where the lead developer would push updates to the production server, but it was not so practical to use on a regular basis. I think Netlify with its broader scope not only helps developers but solves every problem that distributed teams face in updating content on a daily basis.
+
+#### Tell about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it
+I’ve built the website by deploying PHPoole and created three pages without any issues.
+
+**Tools:**
+- PHPoole: This lightweight website generator worked well to add a checklist and answers to your questions via Github. 
+- Github: Helped me hosting all the data and all I had to do was add a few pages.
+
+#### Could you give us a suggestion to improve this test or the job posting?
+This job posting covered everything and I love the way you explained it. The linked articles were handy to learn more about the position. 
+
+I suggest you add a Google form or [Typeform](https://typeform.com) to answer your questions directly instead of writing an email. That helps you keep track of applications and candidates can efficiently fill in.
+
+
+
