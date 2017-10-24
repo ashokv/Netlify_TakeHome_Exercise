@@ -66,4 +66,33 @@ For example,
 
 **[Interakt.co’s](http://docs.interakt.co)** interactive documentation with table of contents (linking sub-topics and FAQs) codepen snippets and widgets competes with Wistia’s elegance. I wrote all their (Interakt.co) docs :)
 
+#### A customer writes in saying their “site won’t build”.  Compose your best short (2-paragraph) customer-facing answer without any additional data, that could be useful in the generic case but would also lead to a customer providing a more actionable response.
 
+**Response to customer**
+
+Hello Jane Doe,
+
+Thank you for contacting Netlify Customer Care.
+
+I am sorry that you are having issues deploying a website with Netlify. Could you reply us with the following details?
+
+- What is the email address associated with Netlify and which Git provider are you trying to deploy from?
+- Let us know if you are seeing any error message and kindly attach a couple of screenshots showing the error
+- Please browse through our FAQ related to onboarding and let us know what happens when you follow necessary troubleshooting steps (as mentioned in FAQ # 7)
+
+We’ll go ahead and look into the issue as soon as we get the requested information.
+
+Should you have any further queries, please do not hesitate to contact us.
+
+Sincerely,
+Ashok Kumar
+
+**Internal Notes**
+
+- It seems like they are using a different email address, so I requested them to provide their email address associated with the account
+- I tried accessing their account on our end, and everything looks fine 
+(@Chris I’m not sure if support engineers are allowed access customer accounts, but I want to take a chance)
+- Suggested to follow necessary troubleshooting steps and will investigate into the issue after receiving error details and screenshots
+
+#### (optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?
+Done! Here is the link - https://ashokexercise.netlify.com/netlify/anything
