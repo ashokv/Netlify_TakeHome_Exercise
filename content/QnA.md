@@ -51,6 +51,15 @@ This job posting covered everything and I love the way you explained it. The lin
 
 I suggest you add a Google form or [Typeform](https://typeform.com) to answer your questions directly instead of writing an email. That helps you keep track of applications and candidates can efficiently fill in.
 
+#### Why do you think SSL/HTTPS is important?
+
+SSL establishes an encrypted connection between a web server and a browser prefixing the URL with "HTTPS" rather than the standard but unsecure "HTTP" to safeguard sensitive information.
+
+Search engines like Google officially recommended securing websites with HTTPS and indicated that they earn search benefits, which means that not only will this be important for companies that want their sites to perform well in search, but it builds trust and credibility with customers/visitors.
+
+#### Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users
+
+I am not sure if I follow the question. Normally, DNS challenges include propagation issues, DNS cache and complex DNS records.
 
 #### Provide a link to documentation for a technical/developer-focused product, that you think are well done, and briefly explain why you think they are well done.
 I believe support documentation of **Wistia** and **Interakt.co** are terrific.
