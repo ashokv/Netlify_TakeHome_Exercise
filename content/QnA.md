@@ -76,7 +76,7 @@ For example,
     - Popover Embeds
     - Troubleshooting Embed Issues
 
-![WistiaImage](https://raw.githubusercontent.com/netlifytest/NetlifyTest/master/wistia_image.png "WisitaImage")
+![WistiaImage](https://raw.githubusercontent.com/netlifytest/Netlify_TakeHome_Exercise/master/wistia_image.png "WisitaImage")
 
 **[Interakt.co’s](http://docs.interakt.co)** interactive documentation with table of contents (linking sub-topics and FAQs) codepen snippets and widgets competes with Wistia’s elegance. I wrote all their (Interakt.co) docs :)
 
@@ -99,10 +99,7 @@ If the issue persists, please reply with the deploy log so that we can investiga
    - Hit the button **Copy to clipboard** and paste into a text file
    - Respond to this email with the attachment and any other information that helps us to investigate
 
-     <a href="http://www.youtube.com/watch?feature=player_embedded&v=6UHLRa5rlJQ
-" target="_blank"><img src="http://img.youtube.com/vi/6UHLRa5rlJQ/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
+![Retrieve Logs](https://media.giphy.com/media/26FeXPs7gwYJouBHi/giphy.gif "retrievelogs")
   
 In the event, you are unable to find deploys or having a problem with your account, please send us the following details:
 
