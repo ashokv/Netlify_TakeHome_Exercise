@@ -12,18 +12,18 @@ tags:
 *Here are things a support engineer at Netlify might do in no particular order. List 5 things that are your most favorite to do and 5 things that are least favorite.*
 
 **Favorite**
-- Respond to 60+ support requests via email or chat every day
-- Analyze thousands of support tickets to spot trends to improve our product
-- Suggest and champion improvements to the product and workflow to your colleagues in and out of support
-- Work with the development team to help design a new feature based on feedback from customers
-- Engage multiple users at once via chat to answer their questions and troubleshoot problems
+1. Respond to 60+ support requests via email or chat every day
+2. Analyze thousands of support tickets to spot trends to improve our product
+3. Suggest and champion improvements to the product and workflow to your colleagues in and out of support
+4. Work with the development team to help design a new feature based on feedback from customers
+5. Engage multiple users at once via chat to answer their questions and troubleshoot problems
 
 ##### Least Favorite
-- Work with prospective customers to explain our service and the pricing model
-- Create video tutorials to help teach users a specific feature or use case
-- Receive occasional phone calls requesting support from our highest-value customers
-- Debug a customer's build using a programming language and framework that you've never seen before
-- Deliver a talk to many people you don't know at a conference or meetup
+1. Work with prospective customers to explain our service and the pricing model
+2. Create video tutorials to help teach users a specific feature or use case
+3. Receive occasional phone calls requesting support from our highest-value customers
+4. Debug a customer's build using a programming language and framework that you've never seen before
+5. Deliver a talk to many people you don't know at a conference or meetup
 
 
 #### What is your favorite thing about providing technical support?
@@ -93,17 +93,17 @@ I am sorry that you are having issues deploying your website. Could you browse t
 
 If the issue persists, please reply with the deploy log so that we can investigate into the issue. For that,
 
-   - Login to your **Netlify account**
-   - Look for the site you are unable to finish and click on it to access deploy information
+   1. Login to your **Netlify account**
+   2. Look for the site you are unable to finish and click on it to access deploy information
    ![Retrieve Logs](https://media.giphy.com/media/26FeXPs7gwYJouBHi/giphy.gif "retrievelogs")
-   - Go to **Deploys** and click on the recent deploy
-   - Hit the button **Copy to clipboard** and paste into a text file
-   - Respond to this email with the attachment and any other information that helps us to investigate
+   3. Go to **Deploys** and click on the recent deploy
+   4. Hit the button **Copy to clipboard** and paste into a text file
+   5. Respond to this email with the attachment and any other information that helps us to investigate
   
 In the event, you are unable to find deploys or having a problem with your account, please send us the following details:
 
-   - What is the email address associated with Netlify and which Git provider are you trying to deploy from?
-   - Let us know if you see any error message and kindly attach a couple of screenshots showing the error
+   1. What is the email address associated with Netlify and which Git provider are you trying to deploy from?
+   2. Let us know if you see any error message and kindly attach a couple of screenshots showing the error
 
 We’ll go ahead and try to resolve the issue as soon as we get the requested information.
 
