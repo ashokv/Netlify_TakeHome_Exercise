@@ -89,18 +89,31 @@ Hello Jane Doe,
 
 Thank you for contacting Netlify Customer Care.
 
-I am sorry that you are having issues deploying a website with Netlify. Could you reply us with the following details?
+I am sorry that you are having issues deploying your website. Could you browse through our FAQ related to onboarding and see what happens when you follow necessary troubleshooting steps (as mentioned in FAQ # 7)?
 
-- What is the email address associated with Netlify and which Git provider are you trying to deploy from?
-- Let us know if you are seeing any error message and kindly attach a couple of screenshots showing the error
-- Please browse through our FAQ related to onboarding and let us know what happens when you follow necessary troubleshooting steps (as mentioned in FAQ # 7)
+If the issue persists, please reply with the deploy log so that we can investigate into the issue. For that,
 
-We’ll go ahead and look into the issue as soon as we get the requested information.
+   - Login to your **Netlify account**
+   - Look for the site you are unable to finish and click on it to access deploy information
+   - Go to **Deploys** and click on the recent deploy
+     <a href="http://www.youtube.com/watch?feature=player_embedded&v=6UHLRa5rlJQ
+" target="_blank"><img src="http://img.youtube.com/vi/6UHLRa5rlJQ/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+   - Hit the button **Copy to clipboard** and paste into a text file
+   - Respond to this email with the attachment and any other information that helps us to investigate
+  
+In the event, you are unable to find deploys or having a problem with your account, please send us the following details:
+
+   - What is the email address associated with Netlify and which Git provider are you trying to deploy from?
+   - Let us know if you see any error message and kindly attach a couple of screenshots showing the error
+
+We’ll go ahead and try to resolve the issue as soon as we get the requested information.
 
 Should you have any further queries, please do not hesitate to contact us.
 
 Sincerely,
 Ashok Kumar
+
 
 **Internal Notes**
 
