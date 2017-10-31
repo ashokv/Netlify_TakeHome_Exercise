@@ -96,11 +96,13 @@ If the issue persists, please reply with the deploy log so that we can investiga
    - Login to your **Netlify account**
    - Look for the site you are unable to finish and click on it to access deploy information
    - Go to **Deploys** and click on the recent deploy
+   - Hit the button **Copy to clipboard** and paste into a text file
+   - Respond to this email with the attachment and any other information that helps us to investigate
+
      <a href="http://www.youtube.com/watch?feature=player_embedded&v=6UHLRa5rlJQ
 " target="_blank"><img src="http://img.youtube.com/vi/6UHLRa5rlJQ/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-   - Hit the button **Copy to clipboard** and paste into a text file
-   - Respond to this email with the attachment and any other information that helps us to investigate
+
   
 In the event, you are unable to find deploys or having a problem with your account, please send us the following details:
 
