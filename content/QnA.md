@@ -95,11 +95,10 @@ If the issue persists, please reply with the deploy log so that we can investiga
 
    - Login to your **Netlify account**
    - Look for the site you are unable to finish and click on it to access deploy information
+   ![Retrieve Logs](https://media.giphy.com/media/26FeXPs7gwYJouBHi/giphy.gif "retrievelogs")
    - Go to **Deploys** and click on the recent deploy
    - Hit the button **Copy to clipboard** and paste into a text file
    - Respond to this email with the attachment and any other information that helps us to investigate
-
-![Retrieve Logs](https://media.giphy.com/media/26FeXPs7gwYJouBHi/giphy.gif "retrievelogs")
   
 In the event, you are unable to find deploys or having a problem with your account, please send us the following details:
 
